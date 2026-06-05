@@ -1,0 +1,6 @@
+langgraph
+langchain-openai
+kokoro>=0.9.4
+soundfile
+numpy
+torch
